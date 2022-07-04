@@ -6,7 +6,7 @@ public class GitTest {
         System.out.println("hello jerry");
         System.out.println("hello fan");
         System.out.println("third commit");
-        System.out.println("hot-fix test commit");
+        System.out.println("hot-fix commit");
         System.out.println("fourth commit");
     }
 }
